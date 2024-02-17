@@ -50,7 +50,7 @@ project-root/
 
 ## Contributing
 
-Feel free to contribute to this project by opening issues, proposing new features, or submitting pull requests.
+Aymane Sabri
 
 ## License
 
